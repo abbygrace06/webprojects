@@ -1,0 +1,64 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Fuzzy+Bubbles:wght@400;700&family=Lexend:wght@100..900&family=Roboto:ital,wght@0,100..900;1,100..900&family=Smooch+Sans:wght@100..900&display=swap');
+
+
+header {
+   background: #7d71e3;
+background: linear-gradient(179deg, rgba(125, 113, 227, 1) 15%, rgba(18, 18, 230, 1) 58%, rgba(121, 218, 237, 1) 95%);
+
+
+    color:white;
+    text-align: center;
+    padding: 40px;
+}
+
+body{
+
+background-color: rgb(177, 178, 199);
+}
+
+  section {
+    background-color: rgb(137, 137, 179);
+    padding: 40px;
+    margin: 20px; 
+}
+body{
+     font-family: "Fuzzy Bubbles", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+    text-align: left;
+    margin-left: 20px; 
+}
+
+
+.background-alt{
+    background-color: rgb(139, 58, 58);
+   text-align: center;
+   
+   
+}
+.background-alt{
+    font-weight: bolder;
+}
+
+.second-background{
+    background-color: #a29ae7;
+    text-align: left;
+}
+.second-background h1{
+font-weight: bolder;
+}
+.third-background{
+    background-color: rgb(83, 84, 170);
+
+}
+.third-background h1{
+    font-weight: bolder;
+}
+
+footer{
+    text-align: center;
+}
+p{
+     font-family: "Lexend", sans-serif;
+}
